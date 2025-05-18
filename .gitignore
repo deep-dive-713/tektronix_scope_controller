@@ -175,3 +175,6 @@ cython_debug/
 
 # Node.js (npm) lock file - Pythonプロジェクトなら不要！
 package-lock.json
+
+# Cursorエディタの設定ファイル
+.cursor
